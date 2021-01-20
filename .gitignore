@@ -1,0 +1,11 @@
+*.pyc
+models/
+.ipynb_checkpoints/
+lightning_logs/
+
+.idea
+data/
+.data/
+
+# vi backups
+*~
